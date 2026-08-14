@@ -1,0 +1,4 @@
+interface:
+  display_name: "Research Orchestrator"
+  short_description: "Route and execute trustworthy research"
+  default_prompt: "Use $research-orchestrator to investigate this question with the right research workflow and source discipline."
